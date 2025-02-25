@@ -129,8 +129,8 @@ export default function Home() {
                     <div className={'flex'}>
                         <div className={'w-1/5 mr-4 p-6 bg-gray-50 text-stone-700 rounded-xl'}>
                             <h3>Information de contact</h3>
-                            <div>hedi.mettali@gmail.com</div>
-                            <div>06 75 36 86 36</div>
+                            <div>email@gmail.com</div>
+                            <div>06 75 XX XX XX</div>
                             <div>Paris</div>
                         </div>
                         <div className={'w-4/5 mr-4 p-6 bg-gray-50 text-stone-700 rounded-xl'}>
